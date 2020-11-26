@@ -28,7 +28,3 @@ Hi, I'm Shashank Sinha, a Mobile Developer, who loves exploring different stuff.
 
 ![Shashankt's github stats](https://github-readme-stats.vercel.app/api?username=shashanksinha98&show_icons=true&hide_border=true) 
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksinha98&layout=compact" />
-

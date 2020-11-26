@@ -11,6 +11,7 @@
 
 Hi, I'm Shashank Sinha, a Mobile Developer, who loves exploring different stuff.
 
+<br />
  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 **Talking about Personal Stuffs:**

@@ -16,9 +16,9 @@ I'm Shashank Sinha, a Mobile Developer, who loves exploring different stuff.
 
 **Talking about Personal Stuffs:**
 
-- 🛠 Currently working on clean notes app which is made using Clean Architecture;
-- 👨🏻‍💻 I’m looking to collaborate on kick ass projects;
-- 🌱 I’m currently exploring AI chatbots;
+- 🛠 Currently I am doing my Master's in Germany;
+- 👨🏻‍💻 I’m looking to collaborate on kick-ass projects;
+- 🌱 I love to explore Android open-source projects;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: sinhashashank.98@gmail.com;
